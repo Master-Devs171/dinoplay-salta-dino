@@ -18,7 +18,7 @@ Tema Dino: personagem dinossauro verde com cauda e placas dorsais, palmeiras, si
 
 [Jogar agora](https://salta-nico-master171.master-171.chatgpt.site/) · [Código no GitHub](https://github.com/Master-Devs171/dinoplay-salta-dino)
 
-![Salta, Dino!](cover.png)
+![Salta, Dino!](cover.jpg)
 
 Pacote DinoPlay: manifest.json aponta para dist/index.html. Inclui o SDK local, guarda progresso através da app quando integrado e permite voltar à biblioteca. Fora da app funciona sem login e guarda o progresso neste dispositivo. Idioma atual: português. Todos os recursos de execução são locais; sem anúncios, pagamentos ou serviços externos.
 
