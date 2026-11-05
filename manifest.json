@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "salta-dino",
+  "name": "Salta, Dino!",
+  "version": "1.0.0",
+  "entry": "dist/index.html",
+  "category": "action",
+  "age": "7+",
+  "cover": "cover.png",
+  "description": "Salta por três mundos pré-históricos, apanha moedas e encontra as bandeiras.",
+  "offline": true,
+  "multiplayer": false,
+  "permissions": [
+    "storage"
+  ],
+  "languages": [
+    "pt-PT"
+  ],
+  "assets": [
+    "dist/app-storage.js",
+    "dist/engine.js",
+    "dist/game.js",
+    "dist/index.html",
+    "dist/sdk/dinoplay-game-sdk.js",
+    "dist/style.css",
+    "cover.png"
+  ],
+  "license": "MIT",
+  "author": "Master-Devs171"
+}
