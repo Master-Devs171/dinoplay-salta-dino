@@ -22,3 +22,13 @@
 body:not(:has(#menu:not([hidden]), #overlay:not([hidden]))) #dinoplay-exit { display: none; }
 #overlay { padding-bottom: 48px; }
 #overlay > div { max-height: calc(100dvh - 72px); overflow: auto; }
+
+#world-buttons { display: grid; grid-template-columns: 1fr; gap: 6px; }
+#world-buttons button { width: 100%; min-height: 32px; text-align: left; padding: 6px 12px; }
+.menu-content #adventure-progress { margin: 8px 0; font-size: 12px; font-weight: bold; }
+#route-progress { width: min(18vw, 96px); height: 8px; accent-color: #61d38d; }
+@media (max-height: 620px) {
+  #menu { overflow: auto; }
+  #menu .menu-content { position: static; transform: none; width: min(360px,100%); padding-top: 12px; }
+  #menu footer { position: static; padding-top: 12px; }
+}

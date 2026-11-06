@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "salta-dino",
   "name": "Salta, Dino!",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "entry": "dist/index.html",
   "category": "action",
   "age": "7+",
